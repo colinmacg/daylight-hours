@@ -1,10 +1,12 @@
 #!/usr/bin/perl
 ##################################################################
 #
-# Name: julian.pl
+# Name: sunrise_sunset.pl
 #
-# Description: Get the current date and time and calculate the
-# Julian (astronomical) date from that
+# Description: Calculate the sunrise and sunset times based on lat/long
+#	and julian date
+#
+# WARNING: Longitude is longitude west! Standard recording is long east
 #
 # Created on: 21/07/2015
 #
